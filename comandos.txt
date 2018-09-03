@@ -3,3 +3,5 @@ npm install -g @vue/cli @vue/cli-init
 vue init nuxt-community/starter-template <project-name>
 npm install --save-dev axios
 npm install --save-dev vuetify
+npm install --save-dev stylus-loader
+npm install --save-dev stylus

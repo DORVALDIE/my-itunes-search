@@ -6,13 +6,13 @@
         my-itunes-search
       </h1>
       <h2 class="subtitle">
-        Artist search App based on the iTunes search engine.
+        Búsquedas de Artistas con base en iTunes Search Engine.
       </h2>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
           target="_blank"
-          class="button--green">Documentation</a>
+          class="button--green">Documentación</a>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
