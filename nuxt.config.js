@@ -3,7 +3,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'my-itunes-search',
+    title: 'My iTunes Search Program',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -25,14 +25,14 @@ module.exports = {
     ** Run ESLint on save
     */
     extend (config, { isDev, isClient }) {
-      if (isDev && isClient) {
+    /*  if (isDev && isClient) {
         config.module.rules.push({
           enforce: 'pre',
           test: /\.(js|vue)$/,
           loader: 'eslint-loader',
           exclude: /(node_modules)/
         })
-      }
+      }*/
     }
   }
 }
