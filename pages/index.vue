@@ -6,7 +6,7 @@
     <form @submit.prevent="submit">
       <input placeholder="Ingresa el Nombre del Artista"
        v-model="search" autofocus />
-
+      
     </form>
 
 </div>

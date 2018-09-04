@@ -2,7 +2,7 @@
   <v-toolbar dark color="blue">
     <v-toolbar-side-icon></v-toolbar-side-icon>
     <v-toolbar-title class="white--text">
-      <nuxt-link class="title" to="/">Búsqueda en iTunes</nuxt-link>
+      <nuxt-link class="title" to="/">Búsqueda Truchilla en iTunes</nuxt-link>
     </v-toolbar-title>
     <v-spacer></v-spacer>
     <v-btn to="/" icon>
