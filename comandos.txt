@@ -6,4 +6,4 @@ npm install --save-dev vuetify
 npm install --save-dev stylus-loader
 npm install --save-dev stylus
 npm install --save-dev webpack-dev-server
-Hasta aquí parte 1.
+Hasta aqui parte 1.

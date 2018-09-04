@@ -1,8 +1,10 @@
 <template>
+<section class="container">
   <div>
     <ToolBar/>
     <nuxt/>
   </div>
+  </section>
 </template>
 
 <script>
